@@ -11,3 +11,6 @@ Through this tutorials I learnt the basic machine learning concepts of Linear re
 I also learnt to ml5 library which is based on the tensor flow js library.
 
 
+The link for the playlist of video is as follows: 
+https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y
+
